@@ -1,0 +1,607 @@
+
+map.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+b1_left
+  rotate: false
+  xy: 577, 363
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+b2_left
+  rotate: false
+  xy: 865, 363
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+b3
+  rotate: false
+  xy: 145, 313
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+b4
+  rotate: false
+  xy: 289, 259
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+b4_left
+  rotate: false
+  xy: 577, 675
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+b5
+  rotate: false
+  xy: 647, 883
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+b5_left
+  rotate: false
+  xy: 577, 571
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+b6
+  rotate: false
+  xy: 577, 467
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+b6_left
+  rotate: false
+  xy: 865, 571
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+citye1
+  rotate: false
+  xy: 145, 105
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+citye2
+  rotate: false
+  xy: 289, 51
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+citye3
+  rotate: false
+  xy: 1, 1
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+citye4
+  rotate: false
+  xy: 145, 1
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+citym1
+  rotate: false
+  xy: 865, 155
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+citym10
+  rotate: false
+  xy: 145, 729
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+citym2
+  rotate: false
+  xy: 1, 313
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+citym3
+  rotate: false
+  xy: 433, 467
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+citym4
+  rotate: false
+  xy: 433, 259
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+citym6
+  rotate: false
+  xy: 145, 209
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+citym7
+  rotate: false
+  xy: 289, 155
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+citym8
+  rotate: false
+  xy: 1, 105
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+citym9
+  rotate: false
+  xy: 433, 155
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+cityn1
+  rotate: false
+  xy: 433, 51
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+cityn2
+  rotate: false
+  xy: 577, 779
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+cityne
+  rotate: false
+  xy: 289, 675
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+citynw
+  rotate: false
+  xy: 1, 417
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+citys1
+  rotate: false
+  xy: 721, 155
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+citys2
+  rotate: false
+  xy: 721, 51
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+cityse
+  rotate: false
+  xy: 865, 259
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+citysw
+  rotate: false
+  xy: 289, 363
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+cityw1
+  rotate: false
+  xy: 721, 571
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+cityw2
+  rotate: false
+  xy: 721, 467
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+cityw3
+  rotate: false
+  xy: 721, 363
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+cityw4
+  rotate: false
+  xy: 721, 259
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+forest0000
+  rotate: false
+  xy: 433, 675
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+forest0001
+  rotate: false
+  xy: 433, 571
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+forest0010
+  rotate: false
+  xy: 721, 779
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+forest0011
+  rotate: false
+  xy: 791, 883
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+forest0110
+  rotate: false
+  xy: 577, 155
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+forest1001
+  rotate: false
+  xy: 145, 625
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+forest1010
+  rotate: false
+  xy: 433, 779
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+forest1011
+  rotate: false
+  xy: 503, 883
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+forest1100
+  rotate: false
+  xy: 1, 209
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+forest1101
+  rotate: false
+  xy: 215, 883
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+forest1110
+  rotate: false
+  xy: 865, 51
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+gras2
+  rotate: false
+  xy: 289, 467
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+merchant
+  rotate: false
+  xy: 1, 833
+  size: 212, 152
+  orig: 212, 152
+  offset: 0, 0
+  index: -1
+rune_village
+  rotate: false
+  xy: 433, 363
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+see
+  rotate: false
+  xy: 865, 467
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+stronghold0
+  rotate: false
+  xy: 577, 51
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+stronghold3
+  rotate: false
+  xy: 1, 521
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+stronghold4
+  rotate: false
+  xy: 577, 259
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+university
+  rotate: false
+  xy: 145, 417
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+v1_left
+  rotate: false
+  xy: 865, 779
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+v2
+  rotate: false
+  xy: 1, 625
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+v2_left
+  rotate: false
+  xy: 865, 675
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+v3
+  rotate: false
+  xy: 359, 883
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+v3_left
+  rotate: false
+  xy: 289, 571
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+v4
+  rotate: false
+  xy: 145, 521
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+v4_left
+  rotate: false
+  xy: 289, 779
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+v5_left
+  rotate: false
+  xy: 721, 675
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+v6
+  rotate: false
+  xy: 1, 729
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+
+map2.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+b1
+  rotate: false
+  xy: 145, 1
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+b2
+  rotate: false
+  xy: 721, 209
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+b3_left
+  rotate: false
+  xy: 577, 313
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+berg1
+  rotate: false
+  xy: 577, 209
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+berg2
+  rotate: false
+  xy: 721, 313
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+berg3
+  rotate: false
+  xy: 433, 1
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+berg4
+  rotate: false
+  xy: 577, 105
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+citym5
+  rotate: false
+  xy: 145, 209
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+easter
+  rotate: false
+  xy: 289, 209
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+forest0100
+  rotate: false
+  xy: 1, 209
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+forest0101
+  rotate: false
+  xy: 145, 313
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+forest0111
+  rotate: false
+  xy: 865, 313
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+forest1000
+  rotate: false
+  xy: 289, 105
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+forest1111
+  rotate: false
+  xy: 1, 313
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+gras1
+  rotate: false
+  xy: 433, 209
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+gras3
+  rotate: false
+  xy: 289, 1
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+gras4
+  rotate: false
+  xy: 433, 105
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+stronghold1
+  rotate: false
+  xy: 1, 105
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+stronghold2
+  rotate: false
+  xy: 289, 313
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+v1
+  rotate: false
+  xy: 433, 313
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+v5
+  rotate: false
+  xy: 577, 1
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+v6_left
+  rotate: false
+  xy: 1, 1
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+xmas
+  rotate: false
+  xy: 145, 105
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1

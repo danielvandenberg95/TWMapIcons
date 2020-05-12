@@ -1,0 +1,153 @@
+
+icons.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+archer
+  rotate: false
+  xy: 39, 2
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+attack
+  rotate: false
+  xy: 187, 2
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+axe
+  rotate: false
+  xy: 261, 2
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+catapult
+  rotate: false
+  xy: 409, 2
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+heavy
+  rotate: false
+  xy: 150, 2
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+incoming_attack
+  rotate: false
+  xy: 668, 2
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+knight
+  rotate: false
+  xy: 224, 2
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 372, 2
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+marcher
+  rotate: false
+  xy: 631, 2
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+militia
+  rotate: false
+  xy: 298, 2
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+ram
+  rotate: false
+  xy: 483, 2
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+reserved_player
+  rotate: false
+  xy: 557, 2
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+reserved_team
+  rotate: false
+  xy: 335, 2
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+return
+  rotate: false
+  xy: 2, 2
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+snob
+  rotate: false
+  xy: 594, 2
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+spear
+  rotate: false
+  xy: 446, 2
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+spy
+  rotate: false
+  xy: 705, 2
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+sword
+  rotate: false
+  xy: 742, 2
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+village_notes1
+  rotate: false
+  xy: 520, 2
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+village_notes2
+  rotate: false
+  xy: 76, 2
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+village_notes3
+  rotate: false
+  xy: 113, 2
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
